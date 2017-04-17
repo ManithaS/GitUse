@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     @IBAction func buttonClicked(_ sender: UIButton) {
-        print("This is a Git tutohhhhhrial")
+        print("This is a Git tutorials")
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
